@@ -32,26 +32,26 @@ A Siamese network is a specialized neural network architecture. Instead of a mod
 ### Installation
 
 1. Clone the repository:
-\```bash
+```bash
 git clone https://github.com/minhhoang2705/siamese-net-face-reg.git
-\```
+```
 
 2. Navigate to the project directory:
-\```bash
+```bash
 cd siamese-net-face-reg
-\```
+```
 
 3. Install the required packages:
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ## Usage
 
 1. Launch Jupyter Notebook:
-\```bash
+```bash
 jupyter notebook
-\```
+```
 
 2. Open the `siamese_model.ipynb` notebook from the Jupyter dashboard.
 
